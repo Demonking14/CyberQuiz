@@ -7,7 +7,7 @@ function Navbar() {
                 <img src="src\assets\DALL·E 2025-02-07 19.42.17 - An aesthetically pleasing and futuristic logo for a cybersecurity quiz website. The design features a sleek, glowing shield with a digital keyhole at .webp" className="h-12 rounded-full" />
             </div>
             <div className="w-1/2 py-4">
-                <ul className="flex justify-center space-x-60 font-semibold text-lg  ">
+                <ul className="flex justify-center space-x-60 font-semibold text-xl  ">
                     <li className="text-orange-600 hover:text-orange-500 cursor-pointer">Home</li>
                     <li className="text-orange-600 hover:text-orange-500 cursor-pointer"> <a href="https://quizizz.com/join/quiz/62c947eb091c6c001d484bfe/start?studentShare=true" target="_blank" rel="noopener noreferrer">Quiz</a></li>
                     <li className="text-orange-600 hover:text-orange-500 cursor-pointer">
